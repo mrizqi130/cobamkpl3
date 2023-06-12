@@ -15,7 +15,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/mrizqi130/cobamkpl</url>
+      <url>https://maven.pkg.github.com/mrizqi130/cobamkpl3</url>
     </repository>
   </distributionManagement>
   <properties>
